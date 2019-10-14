@@ -1,2 +1,4 @@
 # hello-world
-first repo
+ hello,
+ 
+ I like coding
